@@ -9,9 +9,8 @@
         "command": "/home/deck/.local/bin/squashfs-root/bin/love"
       },
       "args": [
-        "game/",
-        "debug"
-      ],
+        "/home/deck/Documents/GitHub/GMTK-game/"
+      ]
     },
     {
       "type": "lua-local",
@@ -21,8 +20,9 @@
         "command": "/home/deck/.local/bin/squashfs-root/bin/love"
       },
       "args": [
-        "game/",
-      ],
-    },
+        "/home/deck/Documents/GitHub/GMTK-game/"
+      ]
+    }
   ]
 }
+
